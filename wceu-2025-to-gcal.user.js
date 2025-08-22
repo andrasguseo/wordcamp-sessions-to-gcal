@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WordCamp Europe 2025 Schedule to Google Calendar
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Adds "Add to Google Calendar" links for each session on WordCamp Europe 2025 schedule and individual session pages.
 // @author       Andras Guseo, Gemini
 // @homepage     https://andrasguseo.com
