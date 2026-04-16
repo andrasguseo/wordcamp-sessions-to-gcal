@@ -5,7 +5,7 @@
 // @description  Adds "Add to Google Calendar" and "Download iCal (.ics)" buttons for each session on WordCamp Europe 2026 schedule and individual session pages, and a bulk export for favourited sessions.
 // @author       Andras Guseo
 // @homepage     https://andrasguseo.com
-// @source       https://github.com/andrasguseo/wordcamp-sessions-to-gcal/raw/refs/heads/main/wceu-2026-to-gcal.user.js
+// @source       https://github.com/andrasguseo/wordcamp-sessions-to-gcal/raw/refs/heads/main/wceu-2026-schedule-to-calendar.user.js
 // @match        https://europe.wordcamp.org/2026/schedule/
 // @match        https://europe.wordcamp.org/2026/session/*
 // @grant        none
